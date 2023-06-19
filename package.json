@@ -1,0 +1,15 @@
+{
+  "name": "mini-zustand-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "j10c",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
